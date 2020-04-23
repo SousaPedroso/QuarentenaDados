@@ -1,7 +1,7 @@
 # QuarentenaDados
 ##### Análise de dados de filmes e do ENEM(sessão bônus) promovido durante o evento QuarentenaDados promovido pela Alura e pela Data Hackers.
 ##### Como pensar como cientista de dados e trabalhar com uma base de dados.
-##### Está disposto aqui a minha resposta com base nos desafios e nos conceitos apresentados e aprendidos durante o evento.
+##### Estão dispostas aquis as minhas resposta com base nos desafios e nos conceitos apresentados e aprendidos durante o evento.
 ##### Instrutores
 [Guilherme Silveira](https://twitter.com/guilhermecaelum),
 [Paulo Silveira](https://twitter.com/paulo_caelum),
